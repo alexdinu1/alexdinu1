@@ -1,4 +1,4 @@
-# $\text{Hello I'm Alex, Welcome!} $
+# $\text{Alex Dinu} $
 
 <p align="center">
   <img src="coolml.gif" width="600" height = "400"/>
