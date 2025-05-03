@@ -1,12 +1,5 @@
 # Hi, I'm Alex
 
-<p align="center">
-  <img src="coolml.gif" width="600" height = "400"/>
-</p>
-
----
-
-
 $\Huge\textbf{🎯 My interests:}$
 - $\large \text{Machine learning applications}$
 - $\large \text{Computational statistics}$
