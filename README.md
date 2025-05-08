@@ -1,7 +1,7 @@
 # Hi, I'm Alex
 
 $\Huge\textbf{🎯 My interests:}$
-- $\large \text{Machine learning applications}$
+- $\large \text{Machine learning theory}$
 - $\large \text{Computational statistics}$
 - $\large \text{Bayesian inference}$
 - $\large \text{Statistical decision theory}$
